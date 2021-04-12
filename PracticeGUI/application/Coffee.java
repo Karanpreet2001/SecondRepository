@@ -8,7 +8,7 @@ public class Coffee {
 	
 	
 	private double price;
-//yes
+
 
 	public Coffee(String coffee, double price) {
 		this.coffee = coffee;

@@ -19,6 +19,9 @@ public class JobApplicant {
 		this.isGraphic= isGraphic;
 		this.isWord=isWord;
 		this.isSpreadSheets=isSpreadSheets;
+		
+		
+		
 	}
 
 	public String getName() {
